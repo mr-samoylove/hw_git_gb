@@ -1,1 +1,3 @@
 this is sample text 1
+
+this line has been added by a separate commit
